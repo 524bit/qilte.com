@@ -5,14 +5,14 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
+    background-color: #091032;
+    color: #FFDC78;
+    padding: 23px;
 }
 
 nav {
-    background-color: #000000;
-    padding: 10px;
+    background-color: #091032;
+    padding: 13px;
 }
 
 nav ul {
@@ -23,21 +23,21 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin-right: 10px;
+    margin-right: 13px;
 }
 
 nav ul li a {
     text-decoration: none;
-    color: #ffffff;
+    color: #FFDC78;
 }
 
 section {
-    padding: 20px;
+    padding: 23px;
 }
 
 footer {
-    background-color: #000000;
-    color: #000000;
-    padding: 10px;
+    background-color: #091032;
+    color: #FFDC78;
+    padding: 13px;
     text-align: center;
 }
